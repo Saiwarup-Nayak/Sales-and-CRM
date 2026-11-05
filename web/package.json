@@ -1,0 +1,14 @@
+{
+  "name": "pipeline-crm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pipeline CRM - React client + Node/Express API over the CRM Sales Opportunities dataset.",
+  "scripts": {
+    "setup": "npm --prefix server install && npm --prefix client install",
+    "build": "npm --prefix client run build",
+    "start": "npm --prefix client run build && npm --prefix server start",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "test": "npm --prefix server test"
+  }
+}
