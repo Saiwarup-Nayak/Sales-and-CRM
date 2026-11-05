@@ -75,4 +75,5 @@ for completeness and clearly labelled. Don't use them for decisions. A useful mo
 (calls, emails, meetings, stage history).
 
 Other notes: open-deal value is estimated at list price (won deals close at a median 1.0× list price), and the
-stage funnel is a snapshot of current stages, not stage-to-stage conversion (there is no stage history).
+stage funnel is a snapshot of current stages, not stage-to-stage conversion (there is no stage history)..
+
